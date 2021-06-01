@@ -10,3 +10,5 @@ i write this line on branch_2!	--- person_1
 >>>>>>> branch_2
 
 i add this line on master!	--- person_1
+
+i add this line on master!	--- person_1
